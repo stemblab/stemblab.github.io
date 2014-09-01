@@ -1,5 +1,4 @@
 [
     "main.html",
-    "main.css",
-    {"css": "http://fonts.googleapis.com/css?family=Noto+Serif"}
+    "main.css"
 ]
