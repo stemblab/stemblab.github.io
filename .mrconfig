@@ -1,0 +1,57 @@
+[beyond-nyquist]
+checkout = git clone 'git@github.com:stemblab/beyond-nyquist' 'beyond-nyquist'
+
+[complex-pseudoinverse]
+checkout = git clone 'git@github.com:stemblab/complex-pseudoinverse' 'complex-pseudoinverse'
+
+[complex-svd]
+checkout = git clone 'git@github.com:stemblab/complex-svd' 'complex-svd'
+
+[cs-intro]
+checkout = git clone 'git@github.com:stemblab/cs-intro' 'cs-intro'
+
+[cs-primer]
+checkout = git clone 'git@github.com:stemblab/cs-primer' 'cs-primer'
+
+[fermi-pasta-ulam]
+checkout = git clone 'git@github.com:stemblab/fermi-pasta-ulam' 'fermi-pasta-ulam'
+
+[gray-scott]
+checkout = git clone 'git@github.com:stemblab/gray-scott' 'gray-scott'
+
+[intuitive-cs]
+checkout = git clone 'git@github.com:stemblab/intuitive-cs' 'intuitive-cs'
+
+[irls]
+checkout = git clone 'git@github.com:stemblab/irls' 'irls'
+
+[julian-day]
+checkout = git clone 'git@github.com:stemblab/julian-day' 'julian-day'
+
+[l1-magic-ports]
+checkout = git clone 'git@github.com:stemblab/l1-magic-ports' 'l1-magic-ports'
+
+[mass-spring-vis]
+checkout = git clone 'git@github.com:stemblab/mass-spring-vis' 'mass-spring-vis'
+
+[mathgifs-logo]
+checkout = git clone 'git@github.com:stemblab/mathgifs-logo' 'mathgifs-logo'
+
+[matrix-spark]
+checkout = git clone 'git@github.com:stemblab/matrix-spark' 'matrix-spark'
+
+[metronome]
+checkout = git clone 'git@github.com:stemblab/metronome' 'metronome'
+
+[mutual-coherence]
+checkout = git clone 'git@github.com:stemblab/mutual-coherence' 'mutual-coherence'
+
+[soliton-startrek]
+checkout = git clone 'git@github.com:stemblab/soliton-startrek' 'soliton-startrek'
+
+[vanderpol-portrait]
+checkout = git clone 'git@github.com:stemblab/vanderpol-portrait' 'vanderpol-portrait'
+
+[weierstrass]
+checkout = git clone 'git@github.com:stemblab/weierstrass' 'weierstrass'
+
