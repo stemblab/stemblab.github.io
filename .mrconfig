@@ -43,6 +43,9 @@ checkout = git clone 'git@github.com:stemblab/mass-spring-vis' 'mass-spring-vis'
 [mathgifs-logo]
 checkout = git clone 'git@github.com:stemblab/mathgifs-logo' 'mathgifs-logo'
 
+[mathjax-diagram]
+checkout = git clone 'git@github.com:stemblab/mathjax-diagram' 'mathjax-diagram'
+
 [matrix-spark]
 checkout = git clone 'git@github.com:stemblab/matrix-spark' 'matrix-spark'
 
