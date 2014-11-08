@@ -16,6 +16,9 @@ checkout = git clone 'git@github.com:stemblab/cs-primer' 'cs-primer'
 [fermi-pasta-ulam]
 checkout = git clone 'git@github.com:stemblab/fermi-pasta-ulam' 'fermi-pasta-ulam'
 
+[gifs]
+checkout = git clone 'git@github.com:stemblab/gifs' 'gifs'
+
 [gray-scott]
 checkout = git clone 'git@github.com:stemblab/gray-scott' 'gray-scott'
 
