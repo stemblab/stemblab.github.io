@@ -1,6 +1,9 @@
 [beyond-nyquist]
 checkout = git clone 'git@github.com:stemblab/beyond-nyquist' 'beyond-nyquist'
 
+[block-diagrams]
+checkout = git clone 'git@github.com:stemblab/block-diagrams' 'block-diagrams'
+
 [complex-pseudoinverse]
 checkout = git clone 'git@github.com:stemblab/complex-pseudoinverse' 'complex-pseudoinverse'
 
