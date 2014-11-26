@@ -52,11 +52,17 @@ checkout = git clone 'git@github.com:stemblab/mathjax-diagram' 'mathjax-diagram'
 [matrix-spark]
 checkout = git clone 'git@github.com:stemblab/matrix-spark' 'matrix-spark'
 
+[medieval-trig]
+checkout = git clone 'git@github.com:stemblab/medieval-trig' 'medieval-trig'
+
 [metronome]
 checkout = git clone 'git@github.com:stemblab/metronome' 'metronome'
 
 [mutual-coherence]
 checkout = git clone 'git@github.com:stemblab/mutual-coherence' 'mutual-coherence'
+
+[reg-demo]
+checkout = git clone 'git@github.com:stemblab/reg-demo' 'reg-demo'
 
 [soliton-startrek]
 checkout = git clone 'git@github.com:stemblab/soliton-startrek' 'soliton-startrek'
